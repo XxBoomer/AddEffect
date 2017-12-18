@@ -1,0 +1,12 @@
+name: AddEffect
+main: AddEffect\Main
+api: [3.0.0, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15]
+version: 1.0
+author: XxBoomer
+
+commands:
+ speed:
+    description: "speed Effects"
+
+ jump:
+    description: "Jump Effects"
